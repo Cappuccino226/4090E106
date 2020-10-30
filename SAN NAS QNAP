@@ -1,4 +1,4 @@
-SAN
+# SAN
 名稱:儲存區域網路 (SAN) 為專屬且獨立的高速網路，可連結多部伺服器，並提供共用的儲存裝置集區
 
 、、、
@@ -7,7 +7,7 @@ SAN
 
 、、、
 
-NAS
+# NAS
 名稱:網路儲存裝置 Network Attached Storage
 
 、、、
@@ -16,7 +16,7 @@ NAS
 
 、、、
 
-QNAP
+# QNAP
 名稱:QNAP 命名源自於高品質網路設備製造商（Quality Network Appliance Provider）
 
 、、、
