@@ -1,6 +1,6 @@
 ### C語言網站
 
-## P
+## Printf
 ```
 https://openhome.cc/Gossip/CGossip/PrintfScanf.html (printf應用)
 ```
