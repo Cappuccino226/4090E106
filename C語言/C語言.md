@@ -1,4 +1,4 @@
 ### C語言網站
 ```
-https://openhome.cc/Gossip/CGossip/PrintfScanf.html
+https://openhome.cc/Gossip/CGossip/PrintfScanf.html (printf應用)
 ```
